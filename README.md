@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![dongjh's GitHub stats](https://github-readme-stats.vercel.app/api?username=BreadcrumbsHONGcalmJIN&count_private=false&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BreadcrumbsHONGcalmJIN&exclude_repo=dotfiles&hide=Jupyter%20Notebook,Smalltalk,CMake,Makefile&langs_count=10&layout=compact)
+![dongjh's GitHub stats](https://github-readme-stats.vercel.app/api?username=HONGcalmJIN&count_private=false&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HONGcalmJIN&exclude_repo=dotfiles&hide=Jupyter%20Notebook,Smalltalk,CMake,Makefile&langs_count=10&layout=compact)
 
 <!--
 ## Selected projects
