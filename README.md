@@ -1,6 +1,19 @@
 ### Hi there 👋
 
+![dongjh's GitHub stats](https://github-readme-stats.vercel.app/api?username=BreadcrumbsHONGcalmJIN&count_private=false&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BreadcrumbsHONGcalmJIN&exclude_repo=dotfiles&hide=Jupyter%20Notebook,Smalltalk,CMake,Makefile&langs_count=10&layout=compact)
+
 <!--
+## Selected projects
+
+### Multi-Source Human-in-the-Loop Experimental Platform for Connected and Autonomous Vehicles via Mixed Digital Twin
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=dongjh20&repo=MSH-MCCT)](https://dongjh20.github.io/MSH-MCCT)
+
+### Mixed cloud control testbed: validating vehicle-road-cloud integration via mixed digital twin.
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=dongjh20&repo=MCCT)](https://dongjh20.github.io/MCCT)
+
 **HONGcalmJIN/HONGcalmJIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
