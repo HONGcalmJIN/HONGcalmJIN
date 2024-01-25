@@ -3,8 +3,6 @@
 ![dongjh's GitHub stats](https://github-readme-stats.vercel.app/api?username=HONGcalmJIN&count_private=false&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HONGcalmJIN)
 
-[![Stargazers over time](https://starchart.cc/HONGcalmJIN/HONGcalmJIN.svg)](https://starchart.cc/HONGcalmJIN/HONGcalmJIN)
-
 <!--
 ## Selected projects
 
