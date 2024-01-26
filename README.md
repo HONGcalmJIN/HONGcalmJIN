@@ -7,6 +7,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HONGcalmJIN)
 
+![](https://komarev.com/ghpvc/?username=HONGcalmJIN&color=brightgreen)
+
 <!--
 ## Selected projects
 
